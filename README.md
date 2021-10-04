@@ -1,4 +1,4 @@
-# Repo
+# Science code challenge
 
 - Activate conda environment
 
