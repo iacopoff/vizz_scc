@@ -1,10 +1,12 @@
 # Repo
 
-- activate conda environment
+- Activate conda environment
 
 conda env create -f environment.yml
 
 
-- install jupyterlab ipykernel
+- Install jupyterlab ipykernel
 
 python -m ipykernel install --user --name vizz_scc 
+
+
